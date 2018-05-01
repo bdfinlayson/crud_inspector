@@ -1,0 +1,3 @@
+module CrudInspector
+  # Your code goes here...
+end
