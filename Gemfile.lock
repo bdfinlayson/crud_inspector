@@ -1,8 +1,8 @@
 PATH
   remote: .
   specs:
-    crud_inspector (0.1.0)
-      rails (~> 5.1.6)
+    crud_inspector (0.1.4)
+      rails (~> 5.1.1)
 
 GEM
   remote: https://rubygems.org/
