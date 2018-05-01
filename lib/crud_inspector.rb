@@ -7,7 +7,7 @@ module CrudInspector
     end
 
     def track
-      return unless Rails.env.development?
+      return unless ::Rails.env.development?
       case @options[:type]
       when :rest
         CrudInspector::Files::Manager.new(@options.merge!(type: :rest)).perform
