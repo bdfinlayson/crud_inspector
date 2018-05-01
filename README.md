@@ -1,5 +1,5 @@
 # CrudInspector
-Short description and motivation.
+Keeps a record of recent CRUD transactions by REST or SOAP protocol
 
 ## Usage
 How to use my plugin.
